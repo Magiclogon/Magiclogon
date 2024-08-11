@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Walid and I'm a computer science student</p>
+<p align="left">My name is Walid and I'm a computer science student.</p>
 
 ###
 
