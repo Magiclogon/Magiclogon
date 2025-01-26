@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Kotlin Multiplatform<br>🎯 Goals: Graduate<br>🎲 Fun fact: Code is like humor. When you have to explain it, it’s bad.</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently trying out new stuff.<br>🎯 Goals: Graduate<br>🎲 Fun fact: Code is like humor. When you have to explain it, it’s bad.</p>
 
 ###
 
